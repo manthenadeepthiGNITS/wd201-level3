@@ -1,0 +1,12 @@
+{
+  "name": "wd201-level3",
+  "version": "1.0.0",
+  "description": "level3",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "deepthi manthena <manthena.deepthi@gmail.com>",
+  "license": "ISC"
+}
